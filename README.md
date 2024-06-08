@@ -1,11 +1,4 @@
-<img align="left" height="200" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"/>
-
 ```diff
-Ambatakam.
-
-
-
-
 Ambatakam.
 ```
 
