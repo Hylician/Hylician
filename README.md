@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://tenor.com/lqsMXFo2dBY.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"/>
 
 ```diff
 Ambatakam.
