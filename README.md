@@ -1,13 +1,7 @@
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="left" height="200" src="https://tenor.com/lqsMXFo2dBY.gif"/>
 
 ```diff
-hi, im jd 🔮.
-
-@@advanced programming student.@@
-+ living in tel aviv, israel.
-- 20 years old
-! program engineer, web developer and shitposter
-# 📖 reverse engineering, computer science
+Ambatakam.
 ```
 
 ```math
